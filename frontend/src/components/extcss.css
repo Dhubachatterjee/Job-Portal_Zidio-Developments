@@ -1,0 +1,30 @@
+#hsbg{
+    background-color: lightyellow;
+}
+#sbg{
+    background-color: white;
+    
+}
+
+#cbbg{
+    background-color: lightgreen;
+}
+
+#homebg{
+    background-color: aquamarine;
+}
+#ljbg{
+    background-color: bisque;
+    padding-top:0.02px;
+}
+
+#hp{
+    font-size: large;
+    color:darkred;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+#jobbg{
+    background-color:whitesmoke;
+}

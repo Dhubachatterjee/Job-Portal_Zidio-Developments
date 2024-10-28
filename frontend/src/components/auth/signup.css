@@ -1,0 +1,20 @@
+#signbg{
+    background-image: url('signupbg.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    #formsign {
+        width: 50%;
+        background-color:rgb(255, 200, 208);
+        border: 1px solid black; 
+        border-radius: 0.5rem;
+        padding: 1rem; 
+        backdrop-filter: blur(10px); 
+        margin-top: 2.5rem; 
+    }
+    
